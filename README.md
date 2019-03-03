@@ -1,2 +1,7 @@
 # EDA-Salary-data
-To perform exploratory data analysis of data set provided by the U.S. Office of Foreign Labor Certification website
+Purpose- To analyze the scenario of Foreign Talent hiring by the U.S. for technical positions such as software
+engineer, data analyst, data scientist, etc. How the jobs, pay scale vary among different states for different type
+of visas.
+Processes involved- Data importing cleaning, Manipulation, and Visualization
+Tools Used- Python 3.7 libraries- Pandas,Numpy,Seaborn,Matplotlib.pyplot
+E.
